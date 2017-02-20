@@ -3,10 +3,11 @@ html {
 }
 
 body {
-    width:900px;
-    margin-left:auto;
-    margin-right:auto;    
-    margin-top:20px;
+    border-radius: 20px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;    
+    margin-top: 30px;
     margin-bottom:100px;
     padding:40px;
     
@@ -26,9 +27,15 @@ h1, h2, h3, h4 {
 header nav {
     font-size: 130%;
     float: right;
+    color:rgb(50,150,50);
 }
 
 header h1 {
     font-size: 220%
 }
 
+img.x {
+    border-radius: 8px;
+    border: 1px solid #aaa;
+    width: 200px;
+}
