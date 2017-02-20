@@ -3,52 +3,32 @@ html {
 }
 
 body {
-    width:1000px;
+    width:900px;
     margin-left:auto;
     margin-right:auto;    
     margin-top:20px;
     margin-bottom:100px;
-    padding:30px;
+    padding:40px;
     
     background-color:rgb(255,255,255);
-    font-family: "book antiqua", verdana, sans-serif;    
-    font-size: 12pt;
-    font-weight: 300;
+    font-family: book antiqua, sans-serif;
+
     line-height: 18pt;
 
     color: black;
 }
 
-p.head {
-    font-size: 10pt;
-    line-height: 16pt;
-}
-
-b,a,hr,p.head {
-
-}      
 
 h1, h2, h3, h4 {
     color:rgb(0,150,0);
 }
 
-.valign-center {
-    vertical-align:middle;
-}
-
-.kkk {
-    text-align:center;
-    margin-top:0px;
-    margin-bottom:0px;
-    padding:0px;
-}
-
 header nav {
-    font-size: 110%;
+    font-size: 130%;
     float: right;
 }
 
 header h1 {
-    font-size: 250%
+    font-size: 220%
 }
 
