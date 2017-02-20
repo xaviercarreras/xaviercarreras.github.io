@@ -38,4 +38,12 @@ img.x {
     border-radius: 8px;
     border: 1px solid #aaa;
     width: 200px;
+    display: inline;
+    float:right;
+    margin: 50px;
+}
+
+p.email {
+    font-size: 90%;
+    color: rgb(50,150,50);
 }
