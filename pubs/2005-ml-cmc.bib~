@@ -1,8 +1,0 @@
-@ARTICLE{CarrerasMarCas2005,
-  author = {Xavier Carreras and Llu{\'i}s M{\`a}rquez and Jorge Castro},
-  title = {Filtering--Ranking Perceptron Learning for Partial Parsing},
-  journal = {Machine Learning},
-  year = {2005},
-  volume = {59},
-  pages = {1--31},
-}
